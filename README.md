@@ -3,3 +3,7 @@ there is 1 file script that is not used is IdleGameTutorial its file created to 
 use the IdleGame script in github and replace the script in script folder in Assets/Scripts/
 
 Unity File https://drive.google.com/file/d/1sE8UFLfJFLqbBLalBUJ6G8paWq0FlGzD/view?usp=sharing
+
+Credit to Razenpok for providing the BigDouble script
+
+https://github.com/Razenpok/BreakInfinity.cs
